@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  div {
+    width: 100px;
+    height: 350px;
+  }
+  
+  section {
+    width: 100%;
+    height: 100px;
+    margin: 0.4rem;
+  }
+  
+  .red {
+    border: 8px solid #8c2617;
+    background-color: #ed452f;
+  }
+  
+  .yellow {
+    border: 8px solid #9b9c1b;
+    background-color: #fdf733;
+  }
+  
+  .green {
+    border: 8px solid #2e6402;
+    background-color: #3c8007;
+    position: relative;
+  }
