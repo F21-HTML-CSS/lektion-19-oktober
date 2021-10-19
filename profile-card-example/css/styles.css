@@ -1,0 +1,41 @@
+*  {
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.profile-card {
+    width: 220px;
+    height: 300px;
+    border: 2px solid #443385;
+    margin: 20px auto;
+    box-shadow: -8px 8px #e1e1fc;
+    padding: 0.5rem;
+}
+
+.heading {
+    text-align: center;
+}
+
+.text {
+    border: 2px dotted #dcdcdc;
+    padding: 0.2rem;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.button {
+    display: block;
+    background-color: #443385;
+    color: #ffffff;
+    padding: 0.8rem;
+    border-radius: 5px;
+    border: 1px solid #443385;
+    box-shadow: -4px 4px #e1e1fc;
+    margin: 0.5rem auto;
+}
