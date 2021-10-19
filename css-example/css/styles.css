@@ -1,3 +1,9 @@
+* {
+    /** box-sizing: border-box räknar med border, padding, margin i din width och height */
+    /** content-box adderar på padding, border och margin på din width och height */
+    box-sizing: border-box;
+}
+
 body {
     width: 100vw;
     height: 100vh;
@@ -12,4 +18,13 @@ section {
 h1 {
     color: #ffffff;
     text-align: center;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: #ffffff;
+    border: 5px solid #93f;
+    padding: 10px;
+    margin: 10px;
 }
