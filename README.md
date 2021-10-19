@@ -21,3 +21,5 @@ CSS vokabulär: http://apps.workflower.fi/vocabs/css/en#comment
 
 
 ## Inspelningar
+
+https://funet-my.sharepoint.com/:f:/g/personal/christoffer_wallenberg_folkuniversitetet_se/EljGj0d71HBAoHT_F8_h3SoBJYQOgnZmtqkf3ccwDDANTw?e=r0M32e
